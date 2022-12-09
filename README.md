@@ -15,7 +15,7 @@ ajouter l'instruction LABEL maintainer="prenom"
 
 6) Définir le service pour le projet java dans le docker-compose.yml
 
-7) Utiliser un network pour connecter la base de donnée à le service java dans votre docker-compose.yml
+7) Utiliser un network pour connecter la base de donnée au service java dans votre docker-compose.yml
 
 8) Configurer la/les bonnes variables d'envrionnements pour que le service java puisse contacter la base de données
 

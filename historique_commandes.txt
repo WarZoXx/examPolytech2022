@@ -1,0 +1,83 @@
+PS C:\Users\Gaston\Documents\Docker\examen\examPolytech2022> Get-History
+
+  Id CommandLine
+  -- -----------
+   1 cd .\Documents\
+   2 cd .\Docker\
+   3 ls
+   4 cd .\examen\
+   5 ls
+   6 cd .\examPolytech2022\
+   7 ls
+   8 docker compose up -d
+   9 docker compose down
+  10 docker compose up -d mysql
+  11 docker compose up -d
+  12 docker compose down
+  13 docker compose up -d mysql
+  14 docker compose up -d
+  15 docker compose down back
+  16 docker compose down backend
+  17 docker compose down
+  18 docker compose up
+  19 docker compose up -d mysql
+  20 docker compose down
+  21 docker compose up -d mysql
+  22 docker compose up
+  23 docker compose up -d mysql
+  24 docker compose up -d
+  25 docker compose up
+  26 cls
+  27 cd .\angular\
+  28 docker build -t front:1.0 .
+  29 docker build -t front:1.0 .
+  30 docker compose down --volume
+  31 cd ..
+  32 docker compose down --volume
+  33 ls
+  34 docker compose down -v
+  35 docker compose down -v
+  36 docker compose up mysql
+  37 docker compose up mysql -d
+  38 docker compose up -d
+  39 docker compose down -v
+  40 docker compose down -v
+  41 docker compose up -d
+  42 docker compose up -d
+  43 docker compose down
+  44 docker compose up -d
+  45 docker compose down
+  46 docker compose up -d
+  47 docker login --username AWS --password "eyJwYXlsb2FkIjoiR1hWSFh6QmIrTXFHR25jMURzaUtlbmpMa3E4Mm94NDlUdll5MW45VnY...
+  48 docker compose down
+  49 docker compose up -d mysql
+  50 docker container ls
+  51 docker compose up -d backend
+  52 docker compose up -d backend
+  53 docker compose up -d frontend
+  54 docker push --help
+  55 docker login --username AWS --password "eyJwYXlsb2FkIjoic3JCRDRUYUV5RzNQOEFieHl4cXNFSzl2bkIvSjh2dTNFYnVnd3d1bFB...
+  56 docker push public.ecr.aws/u1k0q0r7/java:gaston
+  57 docker images
+  58 docker ls
+  59 dockers
+  60 docker --help
+  61 docker image
+  62 docker images
+  63 docker push public.ecr.aws/u1k0q0r7/front:gaston
+  64 docker push public.ecr.aws/u1k0q0r7
+  65 docker push public.ecr.aws/u1k0q0r7/java:gaston
+  66 docker images
+  67 docker push back:1.0 public.ecr.aws/u1k0q0r7/java:gaston
+  68 docker push public.ecr.aws/u1k0q0r7/ java:gaston
+  69 docker push java:gaston
+  70 docker images
+  71 docker tag 55750eab0b67 public.ecr.aws/u1k0q0r7/angluar:gaston
+  72 docker images
+  73 docker tag 55750eab0b67 public.ecr.aws/u1k0q0r7/angular:gaston
+  74 docker tag 80636b39b16d public.ecr.aws/u1k0q0r7/java:gaston
+  75 docker images
+  76 docker image rm
+  77 docker push public.ecr.aws/u1k0q0r7/java:gaston
+  78 docker push public.ecr.aws/u1k0q0r7/angular:gaston
+  79 docker images

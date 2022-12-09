@@ -1,0 +1,22 @@
+16) Qu'est ce que Docker ? A quoi cela sert-il ?
+Docker est une application de conteneurisation. Un conteneur, c'est une sorte de machine virtuelle mais conçue pour ne faire tourner qu'une tâche.
+Docker permet d'empaqueter une application et ses dépendances dans un conteneur isolé pouvant être exécuté.
+Docker sert donc à mettre les applications dans ses conteneurs pour les tester et les déployer facilement.
+
+17) Qu'est ce que la CI et la CD ? Pourquoi est-ce utile ?
+Continuous Integration : Cette pratique consiste a effectuer une multitude de tests, de compilation, de validation
+d'une modification qui a été effectuée sur le code source. Cette pratique est utile car elle permet de vérifer le 
+fonctionnement du produit et que rien ne manque avant la mise en production.
+
+Continuous Delivery : cette pratique est une méthode de développement logiciel qui consiste à produire une partie du
+code dans un cycle court et de le dépolyer. Cette pratique est utile pour tester, difuser et construire un logiciel 
+plus rapidement, mais également, de pouvoir fournir au client un livrable évoluant de façon continue.
+
+18) Qu'avez vous pensez du cours ?
+La même critique que j'avais fait à l'oral, c'est-à-dire, complet, clair, intéressant, nouveau et surtout utile,
+c'est une compétence que je voulais vraiment acquérir avant la fin de mes études.
+
+Merci monsieur :)
+
+19) Surprenez moi
+J'ai utilisé Docker suite au cour pour faire tourner des serveurs de jeu dont Satisfactory <3
